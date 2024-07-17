@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+
+
+
+<html lang="en">
+
+<head>
+    <title>varun</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="main">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">contact us</a></li>
+                <li><a href="#">Buy Now</a></li>
+                <div class="title">
+                    <h2>Introduce Your Product Quickly & Effectively</h2>
+                    <h4>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
+                        <p></p> ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+                        </p>
+
+                        <p> mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+                    </h4>
+                </div>
+
+                <div class="button">
+                    <a href="#" class="btn">purchase UI kit</a>
+                    <a href="#" class="btn">Learn More</a>
+
+                </div>
+            </ul>
+        </div>
+    </header>
+</body>
+
+</html>
